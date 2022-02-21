@@ -1,0 +1,14 @@
+.titileContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #171f46;
+  font-family: 'roboto';
+  font-size: x-large;
+}
+
+.description {
+  font-family: 'roboto';
+  font-size: 15px;
+}
